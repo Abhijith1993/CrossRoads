@@ -1,0 +1,128 @@
+/*
+    Theme Name: OnePage
+    Theme URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+*/
+/* ==== Google font ==== */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700,900);
+@import url('https://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700');
+
+.backgroundpic{
+  background-image: url('../images/baground.jpg');
+}
+
+
+
+
+#logo{
+  margin-left: 12%;
+  letter-spacing: 11px;
+  MARGIN-BOTTOM: -4%;
+  
+}
+#logo1{
+  color: #F2F2F2;
+  width: 10%;
+  font-size: 4em;
+
+}
+#logo2{
+  color:red;
+  margin-top: -37px;
+  margin-left: 16px;
+  font-size: 3em;
+}
+#nav{
+  margin-top: 0%;
+}
+
+#buttonMain{
+margin-left: auto;
+}
+.navbarpic{
+  background-image: url('../images/navpic.jpg');
+}
+
+#navtex{
+color: #fff;
+  cursor: pointer;
+}
+#navtex:hover{
+  color: red;
+}
+
+
+/* ########### popup ############# */
+
+.colour{
+  background-image: url('../images/popuppic.jpg');
+  background-color: #000;
+}
+.textcolor{
+  color: #fff;
+  cursor: pointer;
+  font-size:70%;
+}
+.textcolor:hover{
+  color: red;
+  text-decoration: non;
+}
+.cardvideo{
+ margin-left: -22%;
+}
+.cardtext{
+  
+}
+
+/*Section Feature*/
+#textPackages{
+  border: dashed red;
+  color: rgb(202, 201, 201);
+  
+}
+#Packagesbackground{
+background-image: url('../images/bodybackground.jpg');
+color: rgb(105, 102, 102);
+
+}
+
+/*Section 2*/
+#cardanimation{
+ 
+  border-radius: 5%;
+
+ /* HOVER OFF */
+  -webkit-transition: padding 1s;
+}
+#cardanimation:hover{
+  padding-top: 2%;
+  padding-left: 2%;
+  border-radius: 15%;
+
+ /* HOVER ON */
+  -webkit-transition: border-radius 2s;
+} 
+/* About CrossRoads*/
+.abouttext{
+  padding-left: 20%;
+  color: #fff;
+ 
+}
+#about{
+  border: dashed red;
+  color: rgb(202, 201, 201);
+  background-image: url(../images/baground.jpg);
+}
+#aboutcard{
+  color: rgb(202, 201, 201);
+  background-image: url(../images/baground.jpg);
+
+}
+#aboutmore{
+  margin-left: 79%;
+}
+#aboutcrew{
+  width: 10%;
+  height: 10%;
+}
