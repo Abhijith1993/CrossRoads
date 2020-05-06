@@ -52,15 +52,16 @@ color: #fff;
   background-image: url('../images/popuppic.jpg');
   background-color: #000;
 }
-.textcolor{
+.textcolorhom{
   color: #fff;
   cursor: pointer;
   font-size:70%;
 }
-.textcolor:hover{
+.textcolorhom:hover{
   color: red;
   text-decoration: non;
 }
+
 .cardvideo{
  margin-left: -22%;
 }
