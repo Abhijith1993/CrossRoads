@@ -4,4 +4,12 @@ margin-top: 14%;
 body { 
     padding-top: 71px;
 }
-
+.textcolor{
+    color: #fff;
+    cursor: pointer;
+    font-size:120%;
+  }
+  .textcolor:hover{
+    color: red;
+    text-decoration: non;
+  }
